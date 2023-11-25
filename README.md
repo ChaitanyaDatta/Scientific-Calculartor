@@ -1,4 +1,4 @@
-# My-Project(Scientific_Callculator)
+# My-Project(Scientific_Calculator)
 This is a Repository created for Python projects...
 Preliminary steps ::
  Download python 3.7.4 from Here
